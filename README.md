@@ -1,2 +1,4 @@
 # my_site
-My personal Web Site
+My Portfolio Page
+
+*Obligtory 'Under Construction' sign*
